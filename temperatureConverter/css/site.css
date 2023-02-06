@@ -1,0 +1,51 @@
+﻿wrapper {
+    text-align: center;
+}
+
+#fahrenhitline {
+    border: solid;
+    background-color: yellow;
+    height: 50px;
+    padding-top: 25px;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    color: red;
+}
+
+#ftoc {
+    color: saddlebrown;
+}
+
+#ftocbtn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    background-color: aquamarine;
+    color: red;
+    cursor: pointer;
+}
+
+#celsiusLine {
+    border: solid;
+    background-color: yellow;
+    height: 50px;
+    padding-top: 25px;
+}
+
+
+#ctof {
+    color: saddlebrown;
+}
+
+#ctofbtn {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    font-weight: bold;
+    background-color: aqua;
+    color: red;
+    cursor: pointer;
+}
